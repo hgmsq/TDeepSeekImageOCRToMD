@@ -1,0 +1,2 @@
+# TDeepSeekImageOCRToMD
+基于腾讯云大模型知识引擎原子能力提供的文档解析API快速提取图片信息为MD文档的WinForm案例
