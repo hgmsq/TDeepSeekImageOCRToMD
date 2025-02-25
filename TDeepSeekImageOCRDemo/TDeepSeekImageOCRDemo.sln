@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDeepSeekImageOCRDemo", "TDeepSeekImageOCRDemo.csproj", "{63425A69-86EF-40A3-A2E6-726BF512836F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63425A69-86EF-40A3-A2E6-726BF512836F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63425A69-86EF-40A3-A2E6-726BF512836F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63425A69-86EF-40A3-A2E6-726BF512836F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63425A69-86EF-40A3-A2E6-726BF512836F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1FE6FDC-595A-4772-AE40-568ABAA15B46}
+	EndGlobalSection
+EndGlobal
